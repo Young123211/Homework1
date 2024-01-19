@@ -10,8 +10,7 @@ public class Fibonacci5 {
         i1=i1+i2;
         i2=i1+i2;}
         //每行输出四个
-          // 范围值：Scanner-->想要什么范围的这个数列
-          //debug
+
 
 
 
