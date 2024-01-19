@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class StitchCase4 {
     public static void main(String[]args){
+        // test commit
         Scanner yht = new Scanner(System.in);
         System.out.println("请输入一个一位到三位的整数");
         int num = yht.nextInt();
